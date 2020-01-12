@@ -3,6 +3,7 @@ https://phoenixnap.com/kb/install-node-js-npm-on-windows
 
 
 # Starting NodeJS server
+![](images/npm_start.JPG)
     sudo npm i  
     //apply this line only the first time starting nodejS server.
     // this line will install all needed packages.
@@ -20,7 +21,11 @@ https://phoenixnap.com/kb/install-node-js-npm-on-windows
     https://www.getpostman.com/downloads/   
     
     1.make a request
+    
+    ![](images/post1.JPG)
     2. choose POST method and assign "localhost:8080/api/blink" this to url panel
+    
+    [](images/post2.JPG)
     3. click "Body" --> choose "raw" --> choose "JSON"  and put this json information below
 
         {
