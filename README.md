@@ -22,10 +22,10 @@ https://phoenixnap.com/kb/install-node-js-npm-on-windows
     
     1.make a request
     
-    ![](images/post1.JPG)
+![](images/post1.JPG)
     2. choose POST method and assign "localhost:8080/api/blink" this to url panel
     
-    [](images/post2.JPG)
+![](images/post2.JPG)
     3. click "Body" --> choose "raw" --> choose "JSON"  and put this json information below
 
         {
